@@ -1,0 +1,17 @@
+{
+  "name": "automatic-workspace-folders-hello-world",
+  "version": "0.0.1",
+  "private": "true",
+  "description": "Hello world project to demonstrate the use of the Automatic Workspace Folders feature in Chrome DevTools.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node setup.js",
+    "start": "serve"
+  },
+  "author": "Benedikt Meurer <bmeurer@google.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.4",
+    "uuid": "^11.1.0"
+  }
+}
