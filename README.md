@@ -9,7 +9,7 @@ Chrome (Canary) to enable the feature. Follow the steps below to try it out.
 Checkout and setup the demo via:
 
 ```
-git clone http://github.com/bmeurer/devtools-automatic-workspace-folders-hello-world
+git clone http://github.com/bmeurer/devtools-automatic-workspace-folders-hello-world.git
 cd devtools-automatic-workspace-folders-hello-world
 npm install
 ```
